@@ -1,0 +1,15 @@
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/bin/Debug/net7.0/Array3Sim
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/bin/Debug/net7.0/Array3Sim.deps.json
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/bin/Debug/net7.0/Array3Sim.runtimeconfig.json
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/bin/Debug/net7.0/Array3Sim.dll
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/bin/Debug/net7.0/Array3Sim.pdb
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/obj/Debug/net7.0/Array3Sim.csproj.AssemblyReference.cache
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/obj/Debug/net7.0/Array3Sim.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/obj/Debug/net7.0/Array3Sim.AssemblyInfoInputs.cache
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/obj/Debug/net7.0/Array3Sim.AssemblyInfo.cs
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/obj/Debug/net7.0/Array3Sim.csproj.CoreCompileInputs.cache
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/obj/Debug/net7.0/Array3Sim.dll
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/obj/Debug/net7.0/refint/Array3Sim.dll
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/obj/Debug/net7.0/Array3Sim.pdb
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/obj/Debug/net7.0/Array3Sim.genruntimeconfig.cache
+/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/obj/Debug/net7.0/ref/Array3Sim.dll
