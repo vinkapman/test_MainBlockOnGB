@@ -1,22 +1,42 @@
-﻿Console.WriteLine("Введите количество элементов массива: "); 
+﻿Console.Write("Введите количество элементов массива: ");
 int size = Int32.Parse(Console.ReadLine());
+string [] firstArray = new string [size];
 
-string elements;
-
-string[] firstArray = new string[size];
-
-for(int i = 0; i < size; i++)
+void EnterSymArray (string [] newArray)
     {
-        Console.WriteLine($"Введите элемент масива № {i+1}");
-        firstArray[i] = Console.ReadLine();
+        for (int i = 0; i < newArray.Length; i++)
+            {
+                Console.WriteLine($"Введите элемент массива №{i+1}: ");
+                newArray[i] = Console.ReadLine();
+            }
     }
 
-for(int i = 0; i < size; i++)
+string [] ThreeMinSymArray (string [] newArray)
     {
-        if(firstArray[i].Length < 3)
-        {
-            secondArray[i] = firstArray[i];
-        }
+        int count = 0;
+        for (int i = 0; i < newArray.Length; i++)
+            {
+                if (newArray[i].Length <= 3)
+                count++;
+            }
+        string [] secondArray = new string[count];
+        count = 0;
+        for (int i = 0; i < newArray.Length; i++)
+            {
+                if (newArray[i].Length <= 3)
+                    {
+                        secondArray[count] = firstArray[i];
+                        count++;
+                    }
+            }
+        return secondArray;
     }
 
-Console.WriteLine(String.Join(" ", firstArray));
+void printArray (string [] newArray)
+    {
+        Console.WriteLine(String.Join("\t", newArray));
+    }
+
+EnterSymArray(firstArray);
+printArray(firstArray);
+printArray(ThreeMinSymArray(firstArray));

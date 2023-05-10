@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/Array3Sim.csproj": {}
+    "/home/vitaliy/Документы/Programs/test_MainBlockOnGB/Array3Sim/Array3Sim.csproj": {}
   },
   "projects": {
-    "/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/Array3Sim.csproj": {
+    "/home/vitaliy/Документы/Programs/test_MainBlockOnGB/Array3Sim/Array3Sim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/Array3Sim.csproj",
+        "projectUniqueName": "/home/vitaliy/Документы/Programs/test_MainBlockOnGB/Array3Sim/Array3Sim.csproj",
         "projectName": "Array3Sim",
-        "projectPath": "/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/Array3Sim.csproj",
+        "projectPath": "/home/vitaliy/Документы/Programs/test_MainBlockOnGB/Array3Sim/Array3Sim.csproj",
         "packagesPath": "/home/vitaliy/.nuget/packages/",
-        "outputPath": "/home/vitaliy/Документы/Programs/Test_MainBlockOnGB/Array3Sim/obj/",
+        "outputPath": "/home/vitaliy/Документы/Programs/test_MainBlockOnGB/Array3Sim/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vitaliy/.nuget/NuGet/NuGet.Config"
